@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import logoPadu from '../assets/logo-padu.png';
-import heroImage from '../assets/hero.jpg'; 
+import heroImage from '../assets/heroes.jpg'; 
 import Profil from './Profil';
 import Kegiatan from './Kegiatan';
 import feed1 from '../assets/ig1.jpg';
